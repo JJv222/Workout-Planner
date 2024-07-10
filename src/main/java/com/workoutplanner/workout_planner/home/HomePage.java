@@ -1,4 +1,4 @@
-package com.workoutplanner.workout_planner.main.home;
+package com.workoutplanner.workout_planner.home;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
 import javafx.scene.layout.GridPane;
